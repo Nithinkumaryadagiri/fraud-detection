@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+model/*.pkl
+model/*.json
+.DS_StoreC
